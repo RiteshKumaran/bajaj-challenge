@@ -2,6 +2,10 @@
 
 A production-ready full-stack application built for the SRM Engineering Challenge. This platform processes complex node relationships (trees, cycles, diamonds) via a Node.js REST API and visualises them through a premium React frontend.
 
+## 🔗 Live Links
+- **Frontend (UI):** [https://bajaj-challenge-bfhl.vercel.app/](https://bajaj-challenge-bfhl.vercel.app/)
+- **Backend (API):** [https://bfhl-api-wfsp.onrender.com/bfhl](https://bfhl-api-wfsp.onrender.com/bfhl)
+
 ---
 
 ## ✨ Features
